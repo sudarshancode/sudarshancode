@@ -30,6 +30,3 @@ Skills: Python/Java/C++/C/ JS / HTML / CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudarshancode&show_icons=true&locale=en" alt="sudarshancode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudarshancode&" alt="sudarshancode" /></p>
-
-
-
