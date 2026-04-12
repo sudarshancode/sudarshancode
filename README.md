@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Sudarshan Chakraborty
-#### Software Engineer
-![Software Engineer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGZwK1TIDiMB-O2KTBpn2e4GcdrcZ39HKLvS_zh1f4M8X7lEQP7Lbotf07FTjpCHjoqU0Hh3HUdynOMkDNRNXSudA3lh4WDPxIXGAZGVVd2Uc4pK9sKXM3Sm38HBXuWFQpBOib0EtFOhbTiiW4eyy-rhHPvJDEVwiVALBjDlQqlz2vJ9S1nxnlp0_qLA/w640-h360/20220601_120701.jpg=w704-h396-p-k-no-nu)
 
 I am a Computer Science Student.
 
