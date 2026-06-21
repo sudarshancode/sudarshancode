@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student  
 💻 Android Developer | Web Developer | Exploring System Programming  
-🌱 Currently learning Spring Boot and Machine Learning 
+🌱 Currently learning Spring Boot and Machine Learning <br>
 ⚡ Interested in Operating Systems, Backend Development, and Open Source  
 
 ---
